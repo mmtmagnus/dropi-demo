@@ -1,3 +1,2 @@
-// Only the public Supabase project URL and publishable key belong here.
-// Secret / service-role keys must never be placed in browser files.
-window.DROPI_CONFIG = { supabaseUrl: '', supabasePublishableKey: '' };
+// Public project configuration. Never use a secret key here.
+window.DROPI_CONFIG = { supabaseUrl: 'https://zmgunfywnzvqikqtxmso.supabase.co', supabasePublishableKey: 'sb_publishable_QAZYi-WZhh2-gKmgKRVv8Q_oXk-5bKm' };
